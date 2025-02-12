@@ -1,0 +1,17 @@
+{
+  "name": "config-manager",
+  "version": "1.0.0",
+  "main": "config-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "ini": "^5.0.0",
+    "object-path": "^0.11.8"
+  }
+}

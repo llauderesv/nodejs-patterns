@@ -1,0 +1,15 @@
+INFO: file.log
+INFO: file.log
+INFO: file.log
+DEBUG: Hello From Info
+DEBUG: Hello From Warn
+DEBUG: Hello from Debug
+INFO: Hello From Info
+WARN: Hello From Warn
+DEBUG: Hello from Debug
+INFO: Hello From Info
+WARN: Hello From Warn
+DEBUG: Hello from Debug
+WARN: Hello From Warn
+INFO: Hello From Info
+DEBUG: Hello from Debug

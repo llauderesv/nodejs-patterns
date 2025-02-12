@@ -1,0 +1,2 @@
+First chunk
+Second chunkThis is not logged
