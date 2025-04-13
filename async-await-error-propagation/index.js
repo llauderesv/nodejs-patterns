@@ -22,8 +22,10 @@ playingWithErrors(false);
 async function errorNotCaught() {
   try {
     // Avoid return promise here because it will be caught by the caller
-    return await throwErr(1000); 
+    // return await throwErr(1000);
+    return throwErr(1_000);
   } catch (err) {
+    // The catch here will not called because of early return
     console.error('Error caught by the async function: ' + err.message);
   }
 }

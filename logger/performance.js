@@ -1,4 +1,4 @@
-class CodeTimer {
+class Perf {
   constructor(label = 'Execution Time') {
     this.label = label;
     this.startTime = null;
@@ -23,7 +23,7 @@ class CodeTimer {
 }
 
 // Example usage:
-const timer = new CodeTimer('My Code Block');
+const timer = new Perf('My Code Block');
 timer.start();
 
 // Simulating a block of code
